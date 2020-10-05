@@ -4,7 +4,7 @@
 ![Og Image](https://marco-polino-portfolio.netlify.app/images/og-image.jpg)
 
 #### I miei social
-* [Portfolio](https://marco-polino-portfolio.netlify.app/it/)
+* [Portfolio](https://marcopolino.dev/)
 * [Linkedin](https://www.linkedin.com/in/marco-polino/)
 * [Instagram](https://www.instagram.com/marco_polino_dev/)
 
