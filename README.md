@@ -21,4 +21,4 @@
 #### Work in progress
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-S117&repo=tv-schedule&title_color=d11919&text_color=fff&bg_color=333&icon_color=d11919)](https://github.com/Marco-S117/tv-schedule)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-S117&repo=nuxt-apollo-gql-app&title_color=d11919&text_color=fff&bg_color=333&icon_color=d11919)](https://github.com/Marco-S117/tv-schedule)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-S117&repo=nuxt-apollo-gql-app&title_color=d11919&text_color=fff&bg_color=333&icon_color=d11919)](https://github.com/Marco-S117/nuxt-apollo-gql-app)
