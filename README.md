@@ -1,5 +1,5 @@
 # **Benvenuto sul mio Github 👋🏼 👨‍💻**
-### Sentiti libero di guardare i miei lavori, e perchè no magari fammi sapere cosa ne pensi.
+### Sentiti libero di guardare i miei lavori e, perchè no, fammi sapere cosa ne pensi.
 
 #### Chi sono
 ##### _Sono un appassionato di tecnologia, calcio, fotografia, videogames e informatica. Mi piacciono le nuove sfide e sono una persona molto organizzata nel mio lavoro. Sono nato e vivo in Sicilia e attualemte lavoro da remoto per un'azienda di Firenze. A seguire puoi trovare alcuni link rapidi a progetti personali e profili social._
