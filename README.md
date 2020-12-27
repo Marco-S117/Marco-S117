@@ -15,7 +15,7 @@
 [Linkedin](https://www.linkedin.com/in/marco-polino/) |
 [Instagram](https://www.instagram.com/marco_polino_dev/)
 
-![Og Image](https://marco-polino-portfolio.netlify.app/images/og-image.jpg)
+![Og Image](https://develop-graphql-portfolio.netlify.app/og-image.jpg)
 
 #### Statistiche profilo
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-S117&repo=tv-schedule&title_color=d11919&text_color=fff&bg_color=333&icon_color=d11919) -->
