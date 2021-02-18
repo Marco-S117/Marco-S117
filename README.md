@@ -29,3 +29,5 @@
 
 #### Progetti in corso
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-S117&repo=quasar-weather-app&title_color=d11919&text_color=fff&bg_color=333&icon_color=d11919)](https://github.com/Marco-S117/quasar-weather-app)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-S117&repo=flappy-bird-replica&title_color=d11919&text_color=fff&bg_color=333&icon_color=d11919)](https://github.com/Marco-S117/flappy-bird-replica)
